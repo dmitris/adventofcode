@@ -16,3 +16,4 @@ members = [
 	# "day20",
 	# "utils",
 ]
+resolver = "2"
